@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<com.death.dbChnageWriter.Users>
+		<details>
+			<detail__id>13</detail__id>
+			<phone>32423</phone>
+			<address>dsfsdfsdfsd</address>
+		</details>
+		<id>23</id>
+		<username>wqeqwe</username>
+		<password>sdafdsf</password>
+		<alias>werew</alias>
+		<timestamp>2017-05-12 17:08:53.0</timestamp>
+	</com.death.dbChnageWriter.Users>
+</root>
